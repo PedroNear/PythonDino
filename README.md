@@ -1,3 +1,11 @@
+Nomes: 
+
+Bernado Coelho Araujo Neto: 30510953
+Lucas Araujo Ramos 30955432
+Yury Gomes Fontenele 30128676
+Rafael Vital Veras 29356971
+Christian de Sousa Carvalho
+Pedro Eduardo Vieira De Assis 30620015
 # Fase 1: Análise
 
  Problema selecionado e definido claramente: O projeto visa criar um jogo educativo baseado na história de Guido van Rossum, criador da linguagem Python. O jogo segue a mecânica do famoso "T-Rex" do Google, onde o jogador deve pular obstáculos enquanto acumula pontos. Além disso, há um modo multijogador para disputas ou estudo em grupo.
